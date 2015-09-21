@@ -1,5 +1,7 @@
 # chilipeppr-offline
-Node-webkit based Chilipeppr wrapper
+Node-webkit based Chilipeppr wrapper. Runs ChiliPeppr and standalone offline application.
+
+![screenshot](https://raw.githubusercontent.com/pistolero/chilipeppr-offline/master/screenshot.png)
  
 ## Usage
 
